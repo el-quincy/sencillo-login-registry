@@ -1,0 +1,5 @@
+com\cice\login\entidades\UsuarioRegistro.class
+com\cice\login\Main.class
+com\cice\login\services\impl\ControlLoginUsrImpl.class
+com\cice\login\services\ControlLoginUsr.class
+com\cice\login\dao\Datasource.class
